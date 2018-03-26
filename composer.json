@@ -8,7 +8,7 @@
       "mysql"
     ],
     "homepage": "https://github.com/axelspringer/wp-pconnect",
-    "license": "GPLv2",
+    "license": "GPL-2.0-only",
     "repositories": [{
       "type": "composer",
       "url": "https://wpackagist.org"
