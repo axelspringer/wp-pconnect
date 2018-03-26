@@ -1,0 +1,19 @@
+{
+    "name": "axelspringer/wp-pconnect",
+    "type": "wordpress-dropin",
+    "description": "A drop-in replacement for WordPress to enable persistent MySQLi connections",
+    "keywords": [
+      "wordpress",
+      "plugin",
+      "mysql"
+    ],
+    "homepage": "https://github.com/axelspringer/wp-pconnect",
+    "license": "GPLv2",
+    "repositories": [{
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    }],
+    "require": {
+        "koodimonni/composer-dropin-installer": "^1.2"
+    }
+  }
